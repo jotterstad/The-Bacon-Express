@@ -1,3 +1,3 @@
-Bacon Site
+# Bacon Express
 
-# A site about Bacon.
+## A site about Bacon
